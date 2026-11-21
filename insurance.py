@@ -4,8 +4,8 @@ policy = int(user_input)
 
 # 2. Conditional statements using equality operators (==)
 if policy == 1001:
-    print("private")
+    print("private policy")
 elif policy == 1002:
-    print("Commercial")
+    print("Commercial policy")
 else:
-    print("others")
+    print("others policy")
